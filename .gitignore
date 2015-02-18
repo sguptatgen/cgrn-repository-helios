@@ -2,6 +2,7 @@
 #####################
 /node_modules
 /neo4j
+/system-notes
 
 # Compiled source #
 ###################
